@@ -10,8 +10,6 @@ Karo Pitch is a platform where early-stage founders from across India — especi
 
 [View Live Site]((https://github.com/deepthikolipaka/Karopitch/))
 
-> Replace the link above with your actual GitHub Pages URL
-
 ---
 
 ## Built With
